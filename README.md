@@ -13,6 +13,8 @@
     |-- nginx_routes.conf             # File /etc/nginx/conf.d/default.conf to define path from url to proxy_pass routing
     |-- README.md                     # Readme file
     
+# Context Diagram
+![Alt text](/docs/Software-Architecture/Context_and_infrastructure_Diagram.jpg?raw=true)
 
 # Screenshots
 
